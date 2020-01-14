@@ -5,7 +5,7 @@ lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-
 
 (* = Not included)
 
-To get the contact form working, formspree.io is great.
+To develop the contact form working (possible future addition) formspree.io will be used.
 
 
 Credits:
