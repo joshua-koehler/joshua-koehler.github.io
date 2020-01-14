@@ -1,12 +1,11 @@
-A simple, minimalist design that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
+This repo contains my current portolio website.  It is a work in progress, but has been a great way to develop my front-end skillset.
+
+The site has a simple, minimalist design. It includes a (configurable) parallax background effect, Poptrox-powered
 lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
 
 (* = Not included)
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+To get the contact form working, formspree.io is great.
 
 
 Credits:
